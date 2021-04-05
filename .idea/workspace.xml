@@ -17,16 +17,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1qatBQ8HgYjrnW6Y8aC4a16Qh9k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/rabbitmq-springboot-order-consumer/src/main/java/com/mosn/service/topic" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -143,13 +148,37 @@
       <option name="presentableId" value="Default" />
       <updated>1617329392502</updated>
     </task>
+    <task id="LOCAL-00001" summary="rabbitmq">
+      <created>1617608770449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617608770449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rabbitmq" />
+    <option name="LAST_COMMIT_MESSAGE" value="rabbitmq" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1617351437041">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1617351437041" />
+    <state x="192" y="44" key="CommitChangelistDialog2" timestamp="1617608770219">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="192" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1617608770219" />
+    <state x="591" y="354" key="Github.ShareDialog" timestamp="1617608639836">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="591" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1617608639836" />
+    <state x="319" y="155" key="Github.UntrackedFilesDialog" timestamp="1617608646313">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="155" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1617608646313" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1617382973330">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -190,6 +219,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1617344937191" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617608778129">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617608778129" />
     <state x="88" y="113" key="new project wizard" timestamp="1617344331793">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
